@@ -5,7 +5,6 @@ import { Button, Card, Col, Row, Upload } from "antd"
 import Flex from "components/shared-components/Flex"
 const Planner = () => {
   const [images, setImages] = useState([])
-  console.log(images)
   const handleSave = () => {
     const file = new Blob([JSON.stringify(images)], {
       type: "application/json",
