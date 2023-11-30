@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/orders/index.js"],"names":["Orders","_jsx","children"],"mappings":"mGAAA,+DAEe,SAASA,IACtB,OACEC,cAAA,OAAAC,SAAK,UAET,C","file":"static/js/20.356e8862.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Orders() {\r\n  return (\r\n    <div>orders</div>\r\n  )\r\n}\r\n"],"sourceRoot":""}
