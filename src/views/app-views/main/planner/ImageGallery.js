@@ -4,29 +4,29 @@ import React, { useState } from "react"
 
 const furniture = [
   {
-    src: "/img/planner/1.png",
+    src: "./img/planner/1.png",
     description: "Стол на 4 места",
   },
   {
-    src: "/img/planner/2.png",
+    src: "./img/planner/2.png",
     description: "Стол на 2 места",
   },
   {
-    src: "/img/planner/3.png",
+    src: "./img/planner/3.png",
     description: "Круглый стол на 4 места",
   },
   {
-    src: "/img/planner/4.png",
+    src: "./img/planner/4.png",
     description: "Стол на 4 места с диванами",
   },
 ]
 const other = [
   {
-    src: "/img/planner/verticalSeparator.png",
+    src: "./img/planner/verticalSeparator.png",
     description: "Вертикальный разделитель",
   },
   {
-    src: "/img/planner/horizontalSeparator.png",
+    src: "./img/planner/horizontalSeparator.png",
     description: "Горизонтальный разделитель",
   },
 ]

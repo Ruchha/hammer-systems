@@ -1,7 +1,6 @@
 import React from 'react';
 import { Provider } from 'react-redux';
 import store from './redux/store';
-import { BrowserRouter as Router } from 'react-router-dom';
 import Views from './views';
 import { Route, Switch } from 'react-router-dom';
 import { ThemeSwitcherProvider } from "react-css-theme-switcher";
