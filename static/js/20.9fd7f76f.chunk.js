@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[20],{560:function(e,n,s){"use strict";s.r(n),s.d(n,"default",(function(){return i}));s(0);var t=s(5);function i(){return Object(t.jsx)("div",{children:"orders"})}}}]);
+//# sourceMappingURL=20.9fd7f76f.chunk.js.map

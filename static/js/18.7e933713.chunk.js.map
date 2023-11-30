@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/main/dashboard/index.js"],"names":["Dashboard","_jsx","children"],"mappings":"mGAAA,+DAEe,SAASA,IACtB,OACEC,cAAA,OAAAC,SAAK,aAET,C","file":"static/js/18.7e933713.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Dashboard() {\r\n  return (\r\n    <div>dashboard</div>\r\n  )\r\n}\r\n"],"sourceRoot":""}
